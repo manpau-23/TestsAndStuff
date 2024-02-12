@@ -1,5 +1,5 @@
 {
-  "name": "TestsAndStuff",
+  "name": "tests-and-stuff",
   "version": "0.0.1",
   "description": "",
   "main": "app.js",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/manpau-23/TestsAndStuff/issues"
   },
-  "homepage": "https://github.com/manpau-23/TestsAndStuff#readme"
+  "homepage": "https://github.com/manpau-23/TestsAndStuff#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
