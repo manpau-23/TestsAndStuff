@@ -9,7 +9,7 @@ function formGame() {
         pointsElement.innerHTML = `points: ${points}`;
         document.getElementById('myForm').reset();
     } else {
-        document.body.innerHTML= ('You loose >:C             (refresh to try again)');
+        document.body.innerHTML= ('You loose >:C (refresh to try again)');
         document.body.style.color = 'white';
     }
 }
