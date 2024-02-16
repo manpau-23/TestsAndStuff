@@ -1,5 +1,3 @@
-import {} from './wv-gameover';
-
 var points = 0;
 const pointsElement = document.getElementById('points');
 
